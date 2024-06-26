@@ -1,2 +1,4 @@
 # mariatobon.github.io
-# Repository for Activities 9.1 and 9.2
+# Welcome to My GitHub Pages
+
+Check out my project repository [PCDE-Activity 9.1](https://github.com/mariatobon/PCDE-Activity-9.1).
